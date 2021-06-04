@@ -138,6 +138,11 @@ h6 {
     justify-content: center;
 }
 
+
+/* Coloring the boxes */
+
+
+
 .box1{
     box-sizing: border-box;
     width: 12.5%;
@@ -145,12 +150,68 @@ h6 {
     background:teal;
 }
 
-/* Coloring the boxes */
+.box2{
+    box-sizing: border-box;
+    width: 12.5%;
+    height: 100px;
+    background:gold;
+}
 
+.box3{
+    box-sizing: border-box;
+    width: 12.5%;
+    height: 100px;
+    background:cadetblue;
+}
 
+.box4{
+    box-sizing: border-box;
+    width: 12.5%;
+    height: 100px;
+    background:coral;
+}
 
+.box5{
+    box-sizing: border-box;
+    width: 12.5%;
+    height: 100px;
+    background:crimson;
+}
 
+.box6{
+    box-sizing: border-box;
+    width: 12.5%;
+    height: 100px;
+    background:forestgreen;
+}
 
+.box7{
+    box-sizing: border-box;
+    width: 12.5%;
+    height: 100px;
+    background:darkorchid;
+}
+
+.box8{
+    box-sizing: border-box;
+    width: 12.5%;
+    height: 100px;
+    background:hotpink;
+}
+
+.box9{
+    box-sizing: border-box;
+    width: 12.5%;
+    height: 100px;
+    background:indigo;
+}
+
+.box10{
+    box-sizing: border-box;
+    width: 12.5%;
+    height: 100px;
+    background:dodgerblue;
+}
 
 .bottom-content {
     display: flex;
