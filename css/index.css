@@ -112,31 +112,53 @@ h6 {
 }
 
 .middle-content {
-    margin-bottom: 20px;
+    margin-bottom:20%;
     border-bottom: 1px dashed black;
+     flex-direction: rows;
+    justify-content: space-around;
 }
 
 .middle-content h2 {
-    padding: 0 2%;
+    padding: 3% 2%;
     margin-bottom: 0;
+     flex-direction: rows;
+    justify-content: space-around;
 }
 
-.middle-content .boxes {
+.middle-content .boxes{
+    height: 300px;
     display: flex;
+    flex-direction: rows;
+    justify-content: space-around;
     flex-wrap: wrap;
-    justify-content: space-evenly;
+} 
+
+.boxes{
+    text-align: center;
+    text-emphasis-position: 20px;
 }
 
-.middle-content .boxes .box {
+
+.box-delight {
+
+    
+   
+}
+
+
+
+
+
+/*.middle-content .boxes .box{
     width: 12.5%;
     height: 100px;
-    background:green;
     margin: 20px 2.5%;
     color: white;
     display: flex;
     align-items: center;
     justify-content: center;
-}
+}  */
+
 
 
 /* Coloring the boxes */
@@ -215,7 +237,7 @@ h6 {
 
 .bottom-content {
     display: flex;
-    margin: 0 2% 20px;
+    margin-bottom: 20vh;
     justify-content: space-around;
 }
 
