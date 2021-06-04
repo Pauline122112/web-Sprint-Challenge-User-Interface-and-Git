@@ -32,6 +32,10 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read.
 
+
+______________________________________________________________________________________
+
+
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
 Semantic HTML is a way to comprehend the different sections and the layout of a webpage.
@@ -62,6 +66,13 @@ While using flexbox, ```align-items: center``` is laid out on the cross-axis.
 
 Because it allows developers to keep a record of what they have changed on their code as well as
 allowing to collaborate with other developers.
+
+
+______________________________________________________________________________________
+
+
+
+
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
