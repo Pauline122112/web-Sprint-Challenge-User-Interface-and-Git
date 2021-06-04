@@ -169,3 +169,11 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+/* about section - bottom */
+
+.bottom-about {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
