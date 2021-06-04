@@ -47,21 +47,27 @@ table {
 * {
     box-sizing: border-box;
 }
-
-.navbar{
-  display: flex;
-  position:center;
-  background-color: lightgray;
-
+/* Lambda Logo */
+#logo{
+    display: flex;
+    margin-left: 14%;
+    padding-top: 2%;
 }
 
-
+/* image under logo and nav bar */
 .banner{
     display: flex;
     justify-content: center;
-    margin-top: 5%;
+    margin-top: 2%;
     padding-bottom: 2%;
 }
+
+.links{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
 
 html, body {
     height: 100%;
